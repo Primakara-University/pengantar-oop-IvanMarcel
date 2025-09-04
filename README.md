@@ -18,5 +18,5 @@ Selamat datang di Java, Ivan!
 4. Menambahkan pilihan bahasa (multi-language greeting).
 
 ## Cara Menjalankan
-1. Compile program: pengantar-oop-IvanMarcel.iml
-2. Jalankan Program: pengantar-oop-IvanMarcel.iml
+1. Cari program di: Main/src/java/org/example/Main.java
+2. Jalankan Program: Main.java
