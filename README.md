@@ -1,5 +1,3 @@
-# WelcomeJava Program
-
 ## Deskripsi
 Program ini dibuat menggunakan bahasa **Java**.  
 Fungsinya adalah untuk menerima input nama dari pengguna melalui terminal, lalu menampilkan pesan sambutan:  
@@ -11,12 +9,13 @@ Masukkan nama Anda: Ivan
 
 Selamat datang di Java, Ivan!
 
-## Rencana Program Selanjutnya
-1. Mengembangkan agar bisa menerima beberapa input sekaligus (misalnya nama depan dan nama belakang).
-2. Menambahkan fitur untuk menyimpan data nama ke dalam file teks.
-3. Membuat versi GUI sederhana menggunakan **Java Swing** agar lebih interaktif.
-4. Menambahkan pilihan bahasa (multi-language greeting).
-
 ## Cara Menjalankan
 1. Cari program di: Main/src/java/org/example/Main.java
 2. Jalankan Program: Main.java
+
+
+## Rencana Program Sederhana untuk semester ini
+1. Membuat program to-do list atau manajemen daftar tugas seperti notion.
+
+    Jadi dari aplikasi to-do list ini pengguna atau user akan dapat menambah, menghapus, dan menampilkan tugas.
+
