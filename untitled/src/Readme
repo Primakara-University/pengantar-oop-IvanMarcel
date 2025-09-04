@@ -1,8 +1,7 @@
-# WelcomeJava Program
+Deskripsi
 
-## Deskripsi
-Program ini dibuat menggunakan bahasa **Java**.  
-Fungsinya adalah untuk menerima input nama dari pengguna melalui terminal, lalu menampilkan pesan sambutan:  
+Program ini dibuat menggunakan bahasa Java.
+Fungsinya adalah untuk menerima input nama dari pengguna melalui terminal, lalu menampilkan pesan sambutan:
 `Selamat datang di Java, <nama>!`
 
 Contoh penggunaan:
